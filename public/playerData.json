@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDN_x3qsMAqlbRhBpGwv44hqQphdGCvCQkGD4hTuAww4EhMOVJyT2l55-hj2WMNBfit5ExLhwCdozA9eD-Ae2yCsqtFAoTvzu23yt80uCWrQ&s=10",
+    "country": "India",
+    "rating": 95,
+    "price": 50000,
+    "playerType": "Batsman",
+    "battingType": "Right-hand",
+    "ballingType": "None"
+  },
+  {
+    "id": 3,
+    "name": "Steve Smith",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnRtzV81AamtjKy0UvrB7BHrxkHHyh6AzShg-a7TfwixNR3cXTjoUY5sa_Q23I8d47CyiSaNZgnqCyuIikEa3jNbh-7dp8v3Yhaec-HbS&s=10",
+    "country": "Australia",
+    "rating": 90,
+    "price": 42000,
+    "playerType": "Batsman",
+    "battingType": "Right-hand",
+    "ballingType": "None"
+  },
+  {
+    "id": 4,
+    "name": "Jasprit Bumrah",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRZyu1IHeq2NnZcpAndfsel06KbbBdFun-KA1MbXwDttY-GO6nDc33MW2dcEHK13FFieoxgn0Z17nlrLwXBnqaT2Yam484c3gI-c47r22lNdlZyPdDA39ZCubiGJkfjvxzGQsbz4LYlOBdO&s=19",
+    "country": "India",
+    "rating": 91,
+    "price": 45000,
+    "playerType": "Bowler",
+    "battingType": "Right-hand",
+    "ballingType": "Fast"
+  },
+  {
+    "id": 5,
+    "name": "Rashid Khan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9f7jvr-eKNeuypRZw2p7ENmJ39zTAFea1mDPggIyYGEEWKRGTWCgyl2UNINA9U4hKuQwxRS5Rf4-NUU4ZKm9Ij7BottJNj_k5SQwnnF3-&s=10",
+    "country": "Afghanistan",
+    "rating": 89,
+    "price": 38000,
+    "playerType": "Bowler",
+    "battingType": "Right-hand",
+    "ballingType": "Leg-spin"
+  },
+  {
+    "id": 6,
+    "name": "Jos Buttler",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTVuCXcDoXtzAQIRLZLa7dDQfQfFvbX-ankV8OAusXdXturKuuFBJMuelL9sY7I79v7msO3RSpVG-JvNP8qcTLL5CUwVI0rLoNTj7tCrS64INogeLfJ3HejjfkeNAkdGL-t1SrfPm-GMS9g&s=19",
+    "country": "England",
+    "rating": 88,
+    "price": 35000,
+    "playerType": "Batsman",
+    "battingType": "Right-hand",
+    "ballingType": "None"
+  },
+  {
+    "id": 2,
+    "name": "Babar Azam",
+    "image": "https://static-files.cricket-australia.pulselive.com/headshots/440/568-camedia.png",
+    "country": "Pakistan",
+    "rating": 92,
+    "price": 47000,
+    "playerType": "Batsman",
+    "battingType": "Right-hand",
+    "ballingType": "None"
+  },
+  {
+    "id": 7,
+    "name": "Kane Williamson",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9eUHZH9LlSjqEb1mETE2d_bJxIZYvybEtRyNE085CoIcJO2s1sQs_nzVxh_LeB-od5I9xnww9zSlePxjdlrzOTqIlT86483elXZRMZSK_oQ&s=10",
+    "country": "New Zealand",
+    "rating": 87,
+    "price": 30000,
+    "playerType": "Batsman",
+    "battingType": "Right-hand",
+    "ballingType": "None"
+  },
+  {
+    "id": 8,
+    "name": "Shakib Al Hasan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFk-G57TkfCDMQTC0iXN4194Yn797W4egdxfW2KZHSMLAojCQ9ZiIcitpYAF1uf_-uaY_AMzOdIfLYJMd5pMF47eNYoc3IrzBSQhmEZzSj&s=10",
+    "country": "Bangladesh",
+    "rating": 86,
+    "price": 28000,
+    "playerType": "All-Rounder",
+    "battingType": "Left-hand",
+    "ballingType": "Spin"
+  },
+  {
+    "id": 9,
+    "name": "Trent Boult",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTjxLWyRfcvnjGrdLI3VmazyThZvAf4tG_lDKpfSbSJQx-6Q-heFJgG0d80erX6SqAWluLkg7XxRw53L8TK2OcSjfoNQsEx0QtHUzNyq51SXZbfCol98fZ4ngYqrdLzyyOBpHnVn0YuiTk&s=19",
+    "country": "New Zealand",
+    "rating": 85,
+    "price": 26000,
+    "playerType": "Bowler",
+    "battingType": "Left-hand",
+    "ballingType": "Fast"
+  },
+  {
+    "id": 10,
+    "name": "Ben Stokes",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Me9yXJQb1Ml7cvoCLA-gdrOoYEuP1fdp1Ybu0bnTaG_9RCaUfx1HARaPj9SQO5bzWXTM2LC5JB0pVPRBCS6YQfJn17Dd3UdBXHlhmv-Q&s=10",
+    "country": "England",
+    "rating": 89,
+    "price": 40000,
+    "playerType": "All-Rounder",
+    "battingType": "Left-hand",
+    "ballingType": "Fast-medium"
+  }
+]
