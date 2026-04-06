@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { FaFlag, FaUser } from "react-icons/fa";
+import { toast } from "react-toastify";
 
 const AvailablePlayer = ({ player, setCoins, coins,setSelectedPlayers,selectedPlayers }) => {
   const {
@@ -20,9 +21,9 @@ const AvailablePlayer = ({ player, setCoins, coins,setSelectedPlayers,selectedPl
 
     if (coins >= price) {
       setCoins(coins - price);
-      alert(`${name} is Selected!!`);
+      toast.success(`${name} is Selected!!`);
     } else {
-      alert(`Insufficient Balance`);
+      toast.error(`Insufficient Balance`);
     }
   };
 
